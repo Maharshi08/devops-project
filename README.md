@@ -25,4 +25,19 @@ This is a sample DevOps project to demonstrate version control, collaboration, a
 ## 📂 Folder Structure
 devops-project/ ├── README.md ├── .gitignore ├── DEV.md └── any other project files
 
+## Task: Add Login Feature
+
+This task involved creating a feature branch, adding a login script, and creating a pull request to merge it into the dev branch.
+
+### Screenshots
+
+#### ✅ Created Pull Request
+![PR Created](./assets/screenshot1.png)
+
+#### ✅ Merged Pull Request
+![PR Merged](./assets/screenshot2.png)
+
+#### ✅ Dev Branch Commits
+![Dev Commits](./assets/screenshot3.png)
+
 
