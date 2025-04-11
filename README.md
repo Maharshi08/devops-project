@@ -35,9 +35,9 @@ This task involved creating a feature branch, adding a login script, and creatin
 ![PR Created](./assets/screenshot1.png)
 
 #### ✅ Merged Pull Request
-![PR Merged](./assets/screenshot2.png)
+![PR Merged](./assets/Screenshot2.png)
 
 #### ✅ Dev Branch Commits
-![Dev Commits](./assets/screenshot3.png)
+![Dev Commits](./assets/Screenshot3.png)
 
 
